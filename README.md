@@ -40,7 +40,7 @@ torchrun main.py --num_thread_reader 6 --epochs 15 --batch_size 64 --n_display 2
 
 ## Trained models
 
-The trained models can be downloaded [here](https://aaltofi-my.sharepoint.com/:f:/g/personal/minttu_alakuijala_aalto_fi/EvDb_h6Dum5Joh703sCA9JIBJ16VPFz79_lJkTowv53VEg?e=znFaAY).
+The trained models can be downloaded [here](https://drive.google.com/drive/folders/1oDMOgyXwX9M9w3Rw-Yj6fVeHx0t13AYG).
 
 ## RL training
 
